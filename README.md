@@ -30,12 +30,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/mPK9NYg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 <a href="//imgur.com/a/kovDJsO">Dagflix</a>
 
+
+
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreentoGif, however, when I uploaded to Imgur it kept converting it to MP4 instead of Gif that why I wasn't able to post the GIF walkthrough
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
