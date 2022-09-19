@@ -31,7 +31,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/Jb9iCFc.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/kovDJsO"  ><a href="//imgur.com/a/kovDJsO">Dagflix</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+<a href="//imgur.com/a/kovDJsO">Dagflix</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
