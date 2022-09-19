@@ -32,8 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/Jb9iCFc.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<a href="//imgur.com/a/kovDJsO">Dagflix</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<a href="//imgur.com/a/kovDJsO">Dagflix</a>
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
