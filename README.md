@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<vid src='https://i.imgur.com/mPK9NYg.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/mPK9NYg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <a href="//imgur.com/a/kovDJsO">Dagflix</a>
 
