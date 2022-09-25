@@ -1,41 +1,39 @@
-# Android Project 3 - **Flixster**
+# Android Project 4 - Flixster Part 2: TV shows
 
-Submitted by: **Dagem Teferra**
+Submitted by: Dagem Teferra
 
-**Flixster+** is a movie browsing app that allows users to browse movies currently playing in theaters.
+Flixster is a movie browsing app that allows users to browse through all the tv shows available and learn about them more as they press the buttons.
 
-Time spent: **3** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [X] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [X] **Use Glide to load and display movie poster images**
+- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `[https://developers.themoviedb.org/3/tv/get-popular-tv-shows, https://developers.themoviedb.org/3/tv/get-tv-details]`
+- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [X] **Use Glide to load and display at least one image per entry**
+- [X] **Click on an entry to view specific details about that entry using Intents**
 
 The following **optional** features are implemented:
 
-- [X] Improve and customize the user interface through styling and coloring
-- [ ] Implement orientation responsivity
-  - App should neatly arrange data in both landscape and portrait mode
-- [ ] Implement Glide to display placeholder graphics during loading
-  - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
+- [ ] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [ ] **Add rounded corners to the images using the Glide transformations**
+- [ ] **Implement a shared element transition when user clicks into the details of a movie**
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Displayed 3 additional data points when user clicked into each TV show
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<a href="//imgur.com/a/kovDJsO">Dagflix</a>
+<img src='https://i.imgur.com/9dvxm7w.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ScreentoGif, however, when I uploaded to Imgur it kept converting it to MP4 instead of Gif that why I wasn't able to post the GIF walkthrough
+<!-- Replace this with whatever GIF tool you used! --> ScreenToGif
+GIF created with ...  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,6 +42,7 @@ GIF created with ScreentoGif, however, when I uploaded to Imgur it kept converti
 ## Notes
 
 Describe any challenges encountered while building the app.
+Imgur keeps changing my GIF to a video mp4 file
 
 ## License
 
